@@ -8,6 +8,6 @@ Currently includes:
 
 
 Working on:
-* A simple numerical integrator for definite integrals, using multiple numerical methods like Trapezoid, Left/Right endpoint, and Simpson's.
+* A numerical integrator for definite integrals, using multiple numerical methods like Trapezoid, Left/Right endpoint, and Simpson's.
 
-* A simple matrix calculator for multiplying two matrices.
+* A matrix calculator for multiplying two matrices.
